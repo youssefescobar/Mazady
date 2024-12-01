@@ -9,6 +9,8 @@ app.use(express.json());
 connectDB();
 app.use("/api/test", testroute);
 
-app.listen(3000, () => {
+
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
   console.log("on");
 });
