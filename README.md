@@ -1,6 +1,4 @@
-Here’s the full README content that you can copy-paste all at once:
 
-```markdown
 # Online Auction Backend
 
 This is the backend for the Online Auction project, built using the **MERN stack**. It provides APIs for user authentication, auction creation, bidding, and more. The backend is developed with **Node.js**, **Express**, and **MongoDB**, utilizing **Mongoose** for database interaction.
